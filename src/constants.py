@@ -1,0 +1,6 @@
+API_URL = "https://petfriends.skillfactory.ru/api"
+AUTH_URL = f"{API_URL}/key"
+CREATE_PET_URL = f"{API_URL}/create_pet_simple"
+GET_PETS_URL = f"{API_URL}/pets"
+DELETE_PET_URL = f"{API_URL}/pets"
+UPDATE_PET_URL = f"{API_URL}/pets"
